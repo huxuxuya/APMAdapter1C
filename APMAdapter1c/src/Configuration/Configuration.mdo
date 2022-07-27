@@ -40,4 +40,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.КоннекторHTTP</commonModules>
+  <commonModules>CommonModule.Трассировка</commonModules>
 </mdclass:Configuration>
