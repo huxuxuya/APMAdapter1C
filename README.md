@@ -6,4 +6,4 @@
 
 [Документация API, на которой основан данный модуль]( https://www.elastic.co/guide/en/apm/guide/current/api-events.html)
 
-[Быстро посмотреть текст модуля](./APMAdapter1C/src/CommonModules/Трассировка/Module.bsl)
+[Быстро посмотреть текст модуля](./APMAdapter1c/src/CommonModules/Трассировка/Module.bsl)
