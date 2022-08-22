@@ -16,6 +16,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <vendor>FTimokhov</vendor>
   <version>1.0.0.0</version>
   <usedMobileApplicationFunctionalities>
     <functionality>
